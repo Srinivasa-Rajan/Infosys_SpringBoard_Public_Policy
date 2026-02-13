@@ -32,16 +32,13 @@ ngrok http 8501
 
 ### Signup Page
 ![Signup Page Screenshot](screenshots/SignUp.png)
-*(Replace the above line with your actual screenshot of the Signup form)*
+
 
 ### Login Page
-![Login Page Screenshot](/login_screenshot.png)
-*(Replace the above line with your actual screenshot of the Login tab)*
+![Signup Page Screenshot](screenshots/LogIn.png)
 
 ### Dashboard
-![Dashboard Screenshot](path/to/dashboard_screenshot.png)
-*(Replace the above line with your actual screenshot of the Dashboard after login)*
+![Signup Page Screenshot](screenshots/Dashboard.png)
 
 ### Forgot Password Page
-![Forgot Password Screenshot](path/to/forgot_password_screenshot.png)
-*(Replace the above line with your actual screenshot of the Forgot Password flow)*
+![Signup Page Screenshot](screenshots/ForgotPassword.png)
